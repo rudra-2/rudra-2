@@ -51,7 +51,7 @@ I am a backend-focused Software Engineer passionate about building scalable syst
 
 ## 📊 Working GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra-2&show_icons=true&theme=transparent&hide_border=true" height="155"/>
+  <img src="https://streak-stats.demolab.com/?user=rudra-2&show_icons=true&theme=transparent&hide_border=true" height="155"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-2&theme=dark&hide_border=true" height="155"/>
 </p>
 
