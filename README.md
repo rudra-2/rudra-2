@@ -51,7 +51,7 @@ I am a backend-focused Software Engineer passionate about building scalable syst
 
 ## 📊 Working GitHub Stats  
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com?user=rudra-2&theme=tokyonight](https://streak-stats.demolab.com/?user=rudra-2&theme=tokyonight)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rudra-2&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rudra-2&layout=compact&langs_count=10&theme=algolia&hide=css,html" height="155"/>
 </p>
 
@@ -62,12 +62,6 @@ I am a backend-focused Software Engineer passionate about building scalable syst
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-2&theme=react-dark&hide_border=true&radius=10"/>
 </p>
 
----
-
-## 🌑 Snake Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
