@@ -51,8 +51,7 @@ I am a backend-focused Software Engineer passionate about building scalable syst
 
 ## 📊 Working GitHub Stats  
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rudra-2&theme=tokyonight" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=rudra-2&theme=tokyonight)](https://git.io/streak-stats)
+  <img src="[https://github-readme-streak-stats.herokuapp.com?user=rudra-2&theme=tokyonight](https://streak-stats.demolab.com/?user=rudra-2&theme=tokyonight)" alt="GitHub Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rudra-2&layout=compact&langs_count=10&theme=algolia&hide=css,html" height="155"/>
 </p>
 
