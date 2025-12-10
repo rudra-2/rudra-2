@@ -27,7 +27,7 @@ I am a backend-focused Software Engineer passionate about building scalable syst
 
 ---
 
-## 🪐 3D Profile Card  
+## 🪐 Profile Card  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-2&theme=github_dark" width="900"/>
 </p>
