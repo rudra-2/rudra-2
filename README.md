@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=rudra-2&color=blueviolet" />
   <a href="mailto:02rudrapatel@gmail.com">
     <img src="https://img.shields.io/badge/Email-02rudrapatel%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
