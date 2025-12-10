@@ -1,20 +1,11 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="900" alt="Space Banner"/>
-</p>
-
 <!-- Name with cute font -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=48&duration=3000&pause=500&color=7BC9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rudra+Patel" alt="Cute Name Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=48&duration=3000&pause=500&color=7BC9FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rudra" alt="Cute Name Animation"/>
 </h1>
 
-<!-- Small subtle typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8AE8FF&size=18&center=true&vCenter=true&width=420&lines=backend+developer;ai+automation+builder;linux+%7C+nodejs+%7C+python" alt="Mini Typing">
-</p>
 
 <p align="center">
-  <strong>Software Engineer • AI/Backend Developer • Startup-Focused Builder</strong>
+  <strong>Software Engineer • AI/Backend Developer • Startup Focused Builder</strong>
 </p>
 
 <p align="center">
