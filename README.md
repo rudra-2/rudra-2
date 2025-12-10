@@ -1,6 +1,6 @@
 <!-- Name with cute font -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=48&duration=3000&pause=500&color=7BC9FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rudra" alt="Cute Name Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=50&duration=1&pause=1000&color=7BC9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Rudra&repeat=false" alt="Hi, I'm Rudra Patel"/>
 </h1>
 
 
