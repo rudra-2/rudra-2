@@ -37,7 +37,7 @@ I am a backend-focused Software Engineer passionate about building scalable syst
 
 ##  Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,ts,express,fastapi,tensorflow,mongodb,postgresql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,ts,express,fastapi,tensorflow,mongodb,postgresql,docker,git,linux" />
 </p>
 
 ---
