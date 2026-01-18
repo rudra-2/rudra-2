@@ -83,5 +83,5 @@ I am a backend-focused Software Engineer passionate about building scalable syst
 ---
 
 <p align="center">
-  <i>“Code, ship, learn — repeat.”</i>
+  <i>“Learn, Code, ship ∞ repeat.”</i>
 </p>
