@@ -24,7 +24,7 @@
 ---
 
 ## 🌌 About Me  
-I am a backend-focused Software Engineer passionate about building scalable systems, AI-driven tools, automation platforms, and real-world startup products. I enjoy working on deep technical challenges and high-impact engineering.
+I am a backend focused Software Engineer passionate about building scalable systems, AI driven tools, automation platforms, and real world startup products. I enjoy working on deep technical challenges and high impact engineering.
 
 ---
 
@@ -59,11 +59,11 @@ I am a backend-focused Software Engineer passionate about building scalable syst
 ---
 
 ## 🛰️ What I Love Building
-- Backend APIs and high-scale systems  
+- Backend APIs and high scale systems  
 - AI agents, automation flows, and inference tools  
-- Linux-based infra & Dockerized apps  
+- Linux based infra & Dockerized apps  
 - DevTools and backend frameworks  
-- Real-world product systems  
+- Real world product systems  
 
 ---
 
